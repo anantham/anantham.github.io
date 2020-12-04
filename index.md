@@ -1,8 +1,8 @@
-## Portfolio
+## My Projects
 
 ---
 
-### Category Name 1 
+### DS 200 - Visualizing data from https://data.gov.in/
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,16 +17,11 @@
 
 ---
 
-### Category Name 2
+### Stats202 - Comparison of Binary classifiers
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+This project was done as part of the course stats202 taken by Professor Rajan Patel during the Stanford Summer Session 2016 which I attended.
 
----
-
+Find more details over at the [project page](https://anantham.github.io/Stats202/).
 
 
 
